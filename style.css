@@ -1,0 +1,46 @@
+#resume {
+	width: 750px;
+	margin: 20px auto 30px auto;
+}
+body {
+	font: 16px Arial, Sans-serif;
+	background: url(white-waves.png);
+}
+
+h1 {
+	font-size: 26px;
+	border-bottom: 2px solid black;
+}
+
+h2 {
+	font-size: 16px;
+	margin-bottom: -13px;
+}
+
+h3 {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: -10px;
+	margin-top: 25px;
+}
+
+h4 {
+	font-size: 16px
+	margin-bottom: -20px;
+}
+
+#professional-experience-header {
+	padding-bottom: 10px;
+	border-bottom: 2px solid black;
+}
+
+#technical-skills-header {
+	border-bottom: 2px solid black;
+	margin-bottom: -10px;
+}
+
+#career-position-dates {
+	border-bottom: 2px solid black;
+	margin-bottom: -10px;
+	margin-top: -20px;
+}
